@@ -15,22 +15,23 @@
 * [💡 Energy System](gamplay/energy-system.md)
 * [🆙 Level Upgrade](gamplay/level-upgrade.md)
 * [❇ NFT's Attributions](gamplay/nfts-attributions.md)
-* [FootballMove Box](gamplay/footballmove-box.md)
-* [NFT's Fusioning](gamplay/nfts-fusioning.md)
-* [Anti-Cheating System](gamplay/anti-cheating-system.md)
+* [📦 FootballMove Box](gamplay/footballmove-box.md)
+* [⚔ NFT's Fusioning](gamplay/nfts-fusioning.md)
+* [🛡 Anti-Cheating System](gamplay/anti-cheating-system.md)
 
 ## Getting Started
 
-* [Getting Started](getting-started/getting-started.md)
+* [🎮 Getting Started](getting-started/getting-started.md)
 
 ## Market Place
 
 * [Market Place](market-place/market-place.md)
-* [Trading System](market-place/trading-system.md)
+* [🌐 Trading System](market-place/trading-system.md)
+* [Smartwatch Rare Box (Coming Soon)](market-place/smartwatch-rare-box-coming-soon.md)
 
 ## TOKENOMICS
 
-* [FMOVE token](tokenomics/fmove-token.md)
+* [🪙 $FMOVE token](tokenomics/usdfmove-token.md)
 * [Launch Announcement](tokenomics/launch-announcement.md)
 * [Roadmap](tokenomics/roadmap.md)
 * [Core team](tokenomics/core-team.md)

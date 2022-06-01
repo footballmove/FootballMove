@@ -10,7 +10,7 @@ coverY: 0
 * [x] **The new World Cup:**\
   ****With the most magnificent NFT's of soccer shoes, national team jerseys and stadiums, we will have the possibility of exchanges, mergers and even improvement among them, and with this we will adopt a virtual culture of new investors
 * [x] **Earn in Crypto/NFTs:**\
-  ****Earn in cryptocurrency & upgrade your NFT value every day simply by walking, running, and cycling.
+  ****Earn in crypto & upgrade your NFT value every day simply by walking, running, and cycling.
 
 ****\
 ****

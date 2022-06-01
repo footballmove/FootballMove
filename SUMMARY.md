@@ -10,8 +10,10 @@
 ## gamplay
 
 * [🚴♂ Gameplay](gamplay/gameplay.md)
-* [Energy System](gamplay/energy-system.md)
-* [Level Upgrade](gamplay/level-upgrade.md)
+* [✏ Activities Tracker](gamplay/activities-tracker.md)
+* [💡 Energy System](gamplay/energy-system.md)
+* [🆙 Level Upgrade](gamplay/level-upgrade.md)
+* [FootballMove Box](gamplay/footballmove-box.md)
 * [NFT's Fusioning](gamplay/nfts-fusioning.md)
 * [Anti-Cheating System](gamplay/anti-cheating-system.md)
 

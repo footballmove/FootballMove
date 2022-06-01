@@ -2,18 +2,22 @@
 
 ## Overview
 
-* [FootballMove](README.md)
+* [⚽ FootballMove](README.md)
 * [Planet Soccer](overview/planet-soccer.md)
-* [Mission](overview/mission.md)
-* [Key Features](overview/key-features.md)
+* [🎯 Mission](overview/mission.md)
+* [🥅 Key Features](overview/key-features.md)
 
 ## gamplay
 
-* [Gameplay](gamplay/gameplay.md)
+* [🚴♂ Gameplay](gamplay/gameplay.md)
 * [Energy System](gamplay/energy-system.md)
 * [Level Upgrade](gamplay/level-upgrade.md)
 * [NFT's Fusioning](gamplay/nfts-fusioning.md)
 * [Anti-Cheating System](gamplay/anti-cheating-system.md)
+
+## Getting Started
+
+* [Getting Started](getting-started/getting-started.md)
 
 ## Market Place
 

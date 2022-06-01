@@ -54,8 +54,8 @@ Example used to be an NFT - Football boot,but applies to all other categories:
 
 <!---->
 
-* [x] Purchasing 30 additional Comfort points loses you 20 FMOVE
-* [x] Purchasing 30 additional Stamina points loses you 20 FMOVE
+* [x] Purchasing 30 additional Comfort points loses you 20 $FMOVE
+* [x] Purchasing 30 additional Stamina points loses you 20 $FMOVE
 
 
 

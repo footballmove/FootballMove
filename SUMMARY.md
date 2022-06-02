@@ -27,15 +27,19 @@
 
 * [💰 Market Place](market-place/market-place.md)
 * [🌐 Trading System](market-place/trading-system.md)
-* [📤 $FMOVE Rare Box](market-place/usdfmove-rare-box.md)
+* [📤 $FMOVE Rare Box](market-place/smartwatch-rare-box-coming-soon.md)
 
 ## TOKENOMICS
 
 * [🪙 $FMOVE token](tokenomics/usdfmove-token.md)
 * [🧿 Launch Announcement](tokenomics/launch-announcement.md)
-* [Roadmap](tokenomics/roadmap.md)
-* [Core team](tokenomics/core-team.md)
+* [🛣 Roadmap](tokenomics/roadmap.md)
+* [🔰 Core team](tokenomics/core-team.md)
 
 ## SOCIAL MEDIA
 
-* [Page 1](social-media/page-1.md)
+* [Website](https://app.gitbook.com/s/BOWrPOEu4MdLnIy8y9fo/)
+
+***
+
+* [Twitter](https://twitter.com/FootballMoveBSC)

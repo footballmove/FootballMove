@@ -13,10 +13,10 @@ Example used to be an NFT - Football boot,but applies to all other categories:
 
 <!---->
 
-* [x] **Soccer boot star** : 1-3 Tokens FMOVE/ 90 minutes of exercises.
-* [x] **Soccer boot rare**: 4-7 Tokens FMOVE/ 100 minutes of exercises.
-* [x] **Soccer boot super rare**: 8-11 Tokens FMOVE/ 110 minutes of exercises.
-* [x] **Soccer boot ultra rare**: 12-15 Tokens FMOVE/ 120 minutes of exercises.
+* [x] Soccer boot star : 1-3 Tokens FMOVE/ 90 minutes of exercises.
+* [x] Soccer boot rare: 4-7 Tokens FMOVE/ 100 minutes of exercises.
+* [x] Soccer boot super rare: 8-11 Tokens FMOVE/ 110 minutes of exercises.
+* [x] Soccer boot ultra rare: 12-15 Tokens FMOVE/ 120 minutes of exercises.
 
 <!---->
 

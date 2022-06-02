@@ -7,7 +7,8 @@ coverY: 0
 
 **STAGE 1**&#x20;
 
-* Website
+◍ Website
+
 * KYC Pinksale
 * Audit
 * Community

@@ -5,3 +5,8 @@ coverY: 0
 
 # 🔰 Core team
 
+![ROBIN PERE
+COO](../.gitbook/assets/Robin-Pete-COO.png) ![SOFIA ROSE
+MARKETING](<../.gitbook/assets/Sofia Rose.png>) ![MICHAEL ROY
+BLOCKCHAIN EXPERT](<../.gitbook/assets/Michael Roy.png>) ![SYLVIA MYNTLE
+WEB DEVELOPER](<../.gitbook/assets/Sylvia Myntle marketing.png>)

@@ -40,3 +40,8 @@
 
 * [😎 Website](https://footballmove.io/)
 * [😉 Twitter](https://twitter.com/FootballMoveBSC)
+* [😝 Reddit](https://www.reddit.com/user/Football\_move?utm\_source=share\&utm\_medium=ios\_app\&utm\_name=iossmf)
+* [🤩 Instagran](https://www.instagram.com/accounts/login/?next=/footballmove\_bsc/)
+* [🤓 Github](https://github.com/SpyWolfNetwork/Smart\_Contract\_Audits/blob/main/May/FootBall\_Move\_0x787Ba5B47257119FaAf418aF9d9D43E40275F0a7.pdf)
+* [🥳 Telegram](https://t.me/FootballMove)
+* [😘 Discord](https://discord.com/invite/CYWTYgRP4M)

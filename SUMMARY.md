@@ -3,7 +3,7 @@
 ## Overview
 
 * [⚽ FootballMove](README.md)
-* [Planet Soccer](overview/planet-soccer.md)
+* [🌏 Planet Soccer](overview/planet-soccer.md)
 * [🎯 Mission](overview/mission.md)
 * [🥅 Key Features](overview/key-features.md)
 
@@ -38,8 +38,5 @@
 
 ## SOCIAL MEDIA
 
-* [Website](https://app.gitbook.com/s/BOWrPOEu4MdLnIy8y9fo/)
-
-***
-
-* [Twitter](https://twitter.com/FootballMoveBSC)
+* [😎 Website](https://footballmove.io/)
+* [😉 Twitter](https://twitter.com/FootballMoveBSC)

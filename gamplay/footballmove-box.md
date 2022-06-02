@@ -5,8 +5,10 @@ coverY: 0
 
 # 📦 FootballMove Box
 
-* [x] Collect 220 FMOVE Box pieces to create 1 complete random FootballMove Box, which exists the possibility in a regular box, a rare box, a super rare box and an ultra rare box !
-* [x] Collect 10 unique rare box pieces to create 1 ultra rare full box
-* [x] For each footballmove NFT that our investor owns, a new NFT can be generated every
+* [x] Star: drop rate 85%
+* [x] &#x20;Rare: drop rate 9%&#x20;
+* [x] Super Rare: drop rate 5%&#x20;
+* [x] Ultra Rare: drop rate 1%&#x20;
+* [x] Champions: Rewards Events, Promotions, Launch
 
 ![](../.gitbook/assets/photo\_2022-06-01\_18-46-49.jpg) ![](../.gitbook/assets/photo\_2022-06-01\_18-46-51.jpg) ![](../.gitbook/assets/photo\_2022-06-01\_18-46-54.jpg)

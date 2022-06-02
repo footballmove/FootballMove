@@ -25,14 +25,14 @@
 
 ## Market Place
 
-* [Market Place](market-place/market-place.md)
+* [💰 Market Place](market-place/market-place.md)
 * [🌐 Trading System](market-place/trading-system.md)
-* [Smartwatch Rare Box (Coming Soon)](market-place/smartwatch-rare-box-coming-soon.md)
+* [📤 $FMOVE Rare Box](market-place/usdfmove-rare-box.md)
 
 ## TOKENOMICS
 
 * [🪙 $FMOVE token](tokenomics/usdfmove-token.md)
-* [Launch Announcement](tokenomics/launch-announcement.md)
+* [🧿 Launch Announcement](tokenomics/launch-announcement.md)
 * [Roadmap](tokenomics/roadmap.md)
 * [Core team](tokenomics/core-team.md)
 

@@ -5,3 +5,27 @@ coverY: 0
 
 # 🪙 $FMOVE token
 
+**Supply**
+
+Total supply FMOVE token: 50,000,000 FMOVE
+
+Presale 34%\
+Liquidity 17% \
+Ecossytem App 45% **(Locked)** \
+Team 3% **(Locked)** \
+Pinksale 1% **(Locked)**
+
+$FMOVE token will be Fair Launch released in order to archive:
+
+* [x] A decentralized crypto network that is earned, owned, and governed by the community from the outset.
+* [x] Everyone can participate on equal footing.
+* [x] There is no early access, pre-mine, or allocation of tokens.
+
+Buy and Sell tax allocation
+
+* [x] Buying tax is 1%&#x20;
+* [x] Selling tax is 2%
+
+
+
+####

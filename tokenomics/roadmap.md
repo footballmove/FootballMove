@@ -8,31 +8,29 @@ coverY: 0
 **STAGE 1**&#x20;
 
 * Website
+* KYC Pinksale
 * Audit
 * Community
 * Pinksale Listing
 
 **STAGE 2**
 
-* NFT sale
-* Stake
+* NFT sale&#x20;
+* Platform Stake&#x20;
+* CG and CMC Listing (Requested)&#x20;
+* Website v2&#x20;
+* Marktplace NFT&#x20;
+* Open Beta Test
 
 **STAGE 3**&#x20;
 
-* CG and CMC Listing
-* Website v2
-* Marktplace
-* Closed Beta Test
-
-**STAGE 4**
-
+* Close Beta Test
 * Fixing Bugs
-* Public Beta
 * App Launch First phase
 * Partnerships with football players
 * App Updates
 
-**STAGE 5**&#x20;
+**STAGE 4**
 
 * FootballMove in the WorldCup
 * Stadium Farm

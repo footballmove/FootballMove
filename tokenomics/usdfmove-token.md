@@ -11,7 +11,8 @@ Total supply FMOVE token: 50,000,000 FMOVE
 
 Presale 34%\
 Liquidity 17% \
-Ecossytem App 45% **(Locked)** \
+Ecossytem App 30% **(Locked)**\
+****Rewards 15% **(Locked)**\
 Team 3% **(Locked)** \
 Pinksale 1% **(Locked)**
 
@@ -24,7 +25,9 @@ $FMOVE token will be Fair Launch released in order to archive:
 Buy and Sell tax allocation
 
 * [x] Buying tax is 1%&#x20;
-* [x] Selling tax is 2%
+* [x] Selling tax is 3%
+
+![](../.gitbook/assets/photo\_2022-06-02\_12-13-22.jpg)
 
 **Contract Official FMOVE:**\
 ****[0x123cB163A2c81D103C9124C4492dF1B7cbbcaA45](https://bscscan.com/address/0x123cB163A2c81D103C9124C4492dF1B7cbbcaA45)

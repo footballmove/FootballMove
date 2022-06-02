@@ -45,3 +45,5 @@
 * [🤓 Github](https://github.com/SpyWolfNetwork/Smart\_Contract\_Audits/blob/main/May/FootBall\_Move\_0x787Ba5B47257119FaAf418aF9d9D43E40275F0a7.pdf)
 * [🥳 Telegram](https://t.me/FootballMove)
 * [😘 Discord](https://discord.com/invite/CYWTYgRP4M)
+* [😆 Medium](https://medium.com/@footballmove22)
+* [🤑 Tiktok](https://www.tiktok.com/@footballmovebsc)

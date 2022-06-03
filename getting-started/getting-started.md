@@ -14,7 +14,7 @@ coverY: 0
 4. **Purchase a FMOVE**\
    ****Have a look at the in-app Marketplace and pick out a FMOVE! Ensure you have enough BNB for the purchase.
 
-![](<../.gitbook/assets/validacao foot phone.png>)
+![](<../.gitbook/assets/login phone.png>) ![](<../.gitbook/assets/validacao foot phone.png>) ![](../.gitbook/assets/fffffffffff.png) ![](<../.gitbook/assets/atrib phone.png>)
 
 You are now ready!
 

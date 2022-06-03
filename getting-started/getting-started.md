@@ -30,4 +30,5 @@ One small step for FootballMove , one giant leap for your fitness!
 **Audit:** \
 
 
-**Fair Launch:**&#x20;
+**Fair Launch:** \
+****[**https://www.pinksale.finance/launchpad/0xc57235cF7cC2ECd029355D19b0f11a0f64EfDDCE?chain=BSC**](https://www.pinksale.finance/launchpad/0xc57235cF7cC2ECd029355D19b0f11a0f64EfDDCE?chain=BSC)****

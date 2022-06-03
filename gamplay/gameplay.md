@@ -23,4 +23,5 @@ You can also choose to sell your NFT in the in-app marketplace, where other inve
 **Audit:** \
 
 
-**Fair Launch:**&#x20;
+**Fair Launch:** \
+****[**https://www.pinksale.finance/launchpad/0xc57235cF7cC2ECd029355D19b0f11a0f64EfDDCE?chain=BSC**](https://www.pinksale.finance/launchpad/0xc57235cF7cC2ECd029355D19b0f11a0f64EfDDCE?chain=BSC)****

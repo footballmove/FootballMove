@@ -32,9 +32,11 @@ Buy and Sell tax allocation
 **Contract Official FMOVE:**\
 ****0x1F461B82234b70b44780bb21C8D97456161EBCD7
 
-**Audit:** \
+**KYC:** \
+****[**https://docs.pinksale.finance/important/kyc-and-audit-at-pinksale**](https://docs.pinksale.finance/important/kyc-and-audit-at-pinksale)\
 
 
-**Fair Launch:**&#x20;
+**Fair Launch:** \
+****[**https://www.pinksale.finance/launchpad/0xc57235cF7cC2ECd029355D19b0f11a0f64EfDDCE?chain=BSC**](https://www.pinksale.finance/launchpad/0xc57235cF7cC2ECd029355D19b0f11a0f64EfDDCE?chain=BSC)****
 
 ####

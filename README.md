@@ -19,7 +19,8 @@ With the World Cup of soccer coming, we at FootballMove, seek to create complete
 **Contract Official FMOVE:**\
 ****0x1F461B82234b70b44780bb21C8D97456161EBCD7
 
-**Audit:** \
+**KYC:** \
+****[**https://docs.pinksale.finance/important/kyc-and-audit-at-pinksale**](https://docs.pinksale.finance/important/kyc-and-audit-at-pinksale)\
 
 
 **Fair Launch:** \

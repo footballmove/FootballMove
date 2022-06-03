@@ -47,3 +47,4 @@
 * [😘 Discord](https://discord.com/invite/CYWTYgRP4M)
 * [😆 Medium](https://medium.com/@footballmove22)
 * [🤑 Tiktok](https://www.tiktok.com/@footballmovebsc)
+* [😗 Discord](https://discord.gg/QXpZ3Z7vjt)

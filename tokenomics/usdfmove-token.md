@@ -27,7 +27,7 @@ Buy and Sell tax allocation
 * [x] Buying tax is 1%&#x20;
 * [x] Selling tax is 3%
 
-![](../.gitbook/assets/photo\_2022-06-02\_16-26-12.jpg)
+![](<../.gitbook/assets/photo\_2022-06-02\_12-13-22 (1).jpg>)
 
 **Contract Official FMOVE:**\
 ****[0x123cB163A2c81D103C9124C4492dF1B7cbbcaA45](https://bscscan.com/address/0x123cB163A2c81D103C9124C4492dF1B7cbbcaA45)

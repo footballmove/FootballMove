@@ -14,6 +14,8 @@ coverY: 0
 4. **Purchase a FMOVE**\
    ****Have a look at the in-app Marketplace and pick out a FMOVE! Ensure you have enough BNB for the purchase.
 
+![](<../.gitbook/assets/validacao foot phone.png>)
+
 You are now ready!
 
 One small step for FootballMove , one giant leap for your fitness!

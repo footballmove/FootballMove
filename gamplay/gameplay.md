@@ -21,7 +21,7 @@ You can also choose to sell your NFT in the in-app marketplace, where other inve
 ****0x1F461B82234b70b44780bb21C8D97456161EBCD7
 
 **KYC:** \
-****[**https://docs.pinksale.finance/important/kyc-and-audit-at-pinksale**](https://docs.pinksale.finance/important/kyc-and-audit-at-pinksale)\
+****[**https://www.autentk.com/projects/7**](https://www.autentk.com/projects/7)\
 
 
 **Fair Launch:** \

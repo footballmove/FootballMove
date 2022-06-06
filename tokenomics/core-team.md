@@ -6,5 +6,7 @@ coverY: 0
 # 🔰 Core team
 
 ![
+CARLOS
 COO](../.gitbook/assets/ffff.png) ![
+DIEGO
 BLOCKCHAIN EXPERT](<../.gitbook/assets/Michael Ray.png>)
